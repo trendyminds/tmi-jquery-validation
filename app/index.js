@@ -1,4 +1,4 @@
-window.$ = window.jQuery = require('jquery');
+const $ = require('jquery');
 const parsley = require('parsleyjs');
 require('jquery.inputmask');
 

@@ -4,7 +4,7 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-window.$ = window.jQuery = require('jquery');
+var $ = require('jquery');
 var parsley = require('parsleyjs');
 require('jquery.inputmask');
 
