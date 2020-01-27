@@ -1,3 +1,4 @@
-#Changelog
-##1.0.8
+# Changelog
+
+## 1.1.0
 Change jQuery import method
