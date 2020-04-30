@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jquery": "2.1.4",
+    "jquery": "3.5.0",
     "jquery.inputmask": "trendyminds/jquery.inputmask",
     "parsleyjs": "2.3.5"
   },
